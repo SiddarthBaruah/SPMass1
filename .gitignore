@@ -1,2 +1,9 @@
 .venv
 code.ipynb
+
+/oracle
+ciphertexts.npy
+ciphertexts.text
+
+temp.py
+4RoundAESBreakerFinal.ipynb
