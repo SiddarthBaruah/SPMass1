@@ -1,9 +1,10 @@
 .venv
-code.ipynb
+
+__pycache__/
 
 /oracle
 ciphertexts.npy
-ciphertexts.text
+ciphertexts.txt
 
 temp.py
-4RoundAESBreakerFinal.ipynb
+testCodes.ipynb
